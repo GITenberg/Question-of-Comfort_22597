@@ -1,0 +1,34 @@
+_repo: Question-of-Comfort_22597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Les
+    aliases:
+    - Sturgis, Colin
+    - Cole, Lester
+    - Collins, Les
+    birthdate: 1904
+    deathdate: 1985
+    gutenberg_agent_id: '25434'
+    url: http://www.gutenberg.org/2009/agents/25434
+description: The Gravity Gang was a group of geniuses--devoting its brilliance to
+  creating a realistic Solar System for Disneyland. That was the story, anyway. No
+  one would have believed all that stuff about cops and robbers from outer space.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Question of Comfort
+url: http://www.gutenberg.org/ebooks/22597
